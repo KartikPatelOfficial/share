@@ -58,6 +58,7 @@ class MessageTile extends StatelessWidget {
   Widget build(BuildContext context) {
     return ListTile(
       title: Text(message.content),
+      subtitle: Text(message.device.name),
     );
   }
 }
