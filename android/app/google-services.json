@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "471215044149",
+    "firebase_url": "https://infacom-482c5.firebaseio.com",
+    "project_id": "infacom-482c5",
+    "storage_bucket": "infacom-482c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471215044149:android:f4378ad2d95b232623e37c",
+        "android_client_info": {
+          "package_name": "com.bilwg.share_txt.share_txt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471215044149-8phh3ju9gvd81enn4s5q1e85o8pb9u2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6UcRfgmyQWMwZlpqMZFOq41HkxYxukL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471215044149-8phh3ju9gvd81enn4s5q1e85o8pb9u2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471215044149:android:77cd333f6a2b1262",
+        "android_client_info": {
+          "package_name": "com.deucate.infacom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471215044149-i0tkk11okdd0c177a2c9m481ar9glf7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.infacom",
+            "certificate_hash": "8008669de7ab7f1d2826f7abfc62e55cec4df163"
+          }
+        },
+        {
+          "client_id": "471215044149-ruqd2v1sl4456gtvnr4op4r91619kmjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.infacom",
+            "certificate_hash": "4f60b6320d06b182bbb13b8006e3f00f989b6b95"
+          }
+        },
+        {
+          "client_id": "471215044149-h8rvrbg7eu4r4f9chq3a7ebpdsb4ibg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deucate.infacom",
+            "certificate_hash": "f254d6cf917d0a498abafbe9c7b496efba76ea12"
+          }
+        },
+        {
+          "client_id": "471215044149-8phh3ju9gvd81enn4s5q1e85o8pb9u2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6UcRfgmyQWMwZlpqMZFOq41HkxYxukL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471215044149-8phh3ju9gvd81enn4s5q1e85o8pb9u2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
