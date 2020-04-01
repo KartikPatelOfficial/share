@@ -1,8 +1,5 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:receive_sharing_intent/receive_sharing_intent.dart';
 import 'package:share_txt/model/message.dart';
 import 'package:share_txt/providers/auth_provider.dart';
 import 'package:share_txt/providers/message_provider.dart';
